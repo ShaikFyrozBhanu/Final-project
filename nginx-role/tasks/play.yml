@@ -1,6 +1,0 @@
----
-- name: Deploy NGINX to Kubernetes
-  hosts: localhost
-  remote_user: root
-  roles:
-    - nginx-role
